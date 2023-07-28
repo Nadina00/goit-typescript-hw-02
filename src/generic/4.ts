@@ -3,7 +3,7 @@
 */
 
 class Component {
-  constructor (public props:T) {
+  constructor (public props: any) {
 
   }
 }
